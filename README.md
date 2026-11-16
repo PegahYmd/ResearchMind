@@ -1,0 +1,2 @@
+# ResearchMind
+AI Research Assistant
